@@ -1,1 +1,5 @@
-# account_creator_selenium
+# Create account using selenium
+
+Site url: https://shop.nordstrom.com/
+
+Chrome version: 79
